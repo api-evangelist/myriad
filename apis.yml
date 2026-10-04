@@ -46,7 +46,7 @@ created: '2026-07-17'
 modified: '2026-07-20'
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Fintech
 - Payments
 - Mobile Money
@@ -60,6 +60,7 @@ tags_raw:
 - Mobile Money
 - Open API
 - Switzerland
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
